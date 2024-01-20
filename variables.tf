@@ -1,4 +1,4 @@
-#!bin/bash
+
 
 variable "ami_value"{
         description = "Value for the ami"
