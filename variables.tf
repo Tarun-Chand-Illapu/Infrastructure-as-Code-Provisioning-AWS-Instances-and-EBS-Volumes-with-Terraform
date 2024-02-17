@@ -7,3 +7,7 @@ variable "ami_value"{
 variable "instance_type_value"{
         description = "value for the Instance_type"
 }
+
+variable "size_value"{
+        description = "Describe size of the Volume"
+}
