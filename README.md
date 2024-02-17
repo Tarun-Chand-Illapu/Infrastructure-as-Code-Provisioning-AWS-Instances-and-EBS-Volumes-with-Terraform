@@ -1,6 +1,10 @@
-# Terraform Modules-EC2 Instance
+# Terraform Modules-EC2 Instance with attached EBS
 
 This repository contains Terraform code to provision an AWS EC2 instance.
+
+
+![Design](https://github.com/Tarun-Chand-Illapu/aws-ec2-instance-terraform-module/assets/51223144/3178d85b-6784-4aa6-a19d-517d9865b1c5)
+
 
 ## Prerequisites
 
